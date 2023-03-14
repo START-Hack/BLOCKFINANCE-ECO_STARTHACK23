@@ -48,8 +48,6 @@ We need onboarding with a crypto exchange because participants will require Bitc
 
 - [Participant Resources](/participant_resources)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
-
 ## Point of Contact
 
 We will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
@@ -71,9 +69,16 @@ __Crypto is equality
 
 __1st.__  Blockfinance ECO AG has a sister company, Nautilus Cyberneering S.L.U, located in Gran Canaria, Canary Islands. Nautilus Cyberneering is dedicated to building open-source ecosystems where user-creator communities collaborate to develop secure and respectful software that adds value for future generations. As a reward for the Hack-Case winner, they will get the opportunity to visit the Nautilus Cyberneering team in Gran Canaria and spend a week on the island and a day with the international team, experiencing the exciting work of open-source development firsthand.
 
-(Insert Image from Gran Canaria and a plane)
+![Air plane]()
+![Teror]()
+![Dunes]()
+![Faro]()
 
 __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
 (Images from https://trezor.io/ and https://shiftcrypto.ch/de/bitbox02/ https://blockclockmicro.com/ ) 
+
+
+
+
 
 
