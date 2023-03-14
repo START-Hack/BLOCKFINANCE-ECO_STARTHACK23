@@ -75,8 +75,10 @@ __1st.__  Blockfinance ECO AG has a sister company, Nautilus Cyberneering S.L.U,
 ![Faro]()
 
 __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
-(Images from https://trezor.io/ and https://shiftcrypto.ch/de/bitbox02/ https://blockclockmicro.com/ ) 
 
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/15330600/225154065-9fee04f8-47e2-4f6b-a90b-702462c2faf4.png"> | <img width="150" alt="image" src="https://user-images.githubusercontent.com/15330600/225153928-3e48755d-7027-4c1a-9a35-07404cbec005.png">|<img width="150" alt="image" src="https://user-images.githubusercontent.com/15330600/225154543-ec6f9440-1ea6-4917-b882-14fa02253f69.png">
+
+(Images from https://trezor.io/ and https://shiftcrypto.ch/de/bitbox02/ https://blockclockmicro.com/ ) 
 
 
 
