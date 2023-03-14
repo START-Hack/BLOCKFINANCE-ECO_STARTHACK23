@@ -69,10 +69,10 @@ __Crypto is equality
 
 __1st.__  Blockfinance ECO AG has a sister company, Nautilus Cyberneering S.L.U, located in Gran Canaria, Canary Islands. Nautilus Cyberneering is dedicated to building open-source ecosystems where user-creator communities collaborate to develop secure and respectful software that adds value for future generations. As a reward for the Hack-Case winner, they will get the opportunity to visit the Nautilus Cyberneering team in Gran Canaria and spend a week on the island and a day with the international team, experiencing the exciting work of open-source development firsthand.
 
-![Air plane]()
-![Teror]()
-![Dunes]()
-![Faro]()
+<img width="150" alt="image" src="./images/john-mcarthur-PrdNTrIrG8w-unsplash.jpg">|
+<img width="200" alt="image" src="./images/joel-rohland-Wquj9efltqo-unsplash.jpg">|
+<img width="150" alt="image" src="./images/quinten-braem-dAAmHc9Kzoc-unsplash.jpg">|
+<img width="150" alt="image" src="./images/florian-wehde-MiIsa9fHNFo-unsplash.jpg">
 
 __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
 
