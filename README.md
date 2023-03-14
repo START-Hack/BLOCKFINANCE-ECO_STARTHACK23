@@ -1,6 +1,5 @@
 # BLOCKFINANCE-ECO_STARTHACK23
 
-
 STAAT - HACK CASE 2023
 
 ## Case Introduction:
@@ -83,6 +82,38 @@ __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
 
 (Images from https://trezor.io/ and https://shiftcrypto.ch/de/bitbox02/ https://blockclockmicro.com/ ) 
 
+
+### Challenges and Evaluation Criteria:
+
+- Set up a Bitcoin wallet structure using BIP-85 for your company and derive multiple BIP39 seeds for accounting, salaries, fundraising, etc. (10 points)
+- Create a Bitcoin company vault wallet that will be used to fund the company derived from the BIP-85 seed. (5 points)
+
+- Raise funds on your fundraising Bitcoin wallet, which is also set up from the BIP-85 wallets, and get funded from the angel investor at the Blockfinance ECO AG booth. To receive your angel investment, you need to sign a message from one of your addresses in your Bitcoin fundraising wallet and send it to the Blockfinance ECO AG team on Discord or personally. Use the https://github.com/Blockfinance-ECO/Bitcoin-Value-Assert tool to create the timestamp and message of your fundraising Bitcoin wallet. (10 points)
+
+•	Ensure you run your Bitcoin node with API access and txindex=1 in your bitcoin.conf file. (10 points)
+
+- Set up your Bitcoin Payment Server (BTCPay) and connect it to your own Bitcoin node. (10 points)
+  - additional 15 point for: 
+  - Create your first invoice and send the link to Blockfinance ECO AG staff for review (3 points). Use 5€ as the total payment amount.
+  - Access the API of the Bitcoin payment server and write a wrapper in a scripting language of your choice or set up a small website to:
+  - •	Set up a product for sale.
+  - Generate an automated invoice using the API for this product.
+  - Check if the invoice was paid, save everything related to the payment in a local database of your choice.
+  - Automatically move 75% of the invoice money to your company vault wallet.  (https://docs.btcpayserver.org/CustomIntegration/, https://docs.btcpayserver.org/API/Greenfield/v1/)
+  - Get creative and show some more possible use cases (not getting more points for it, just for yourself and your later success) 
+
+- Provide accounting statements of all your Bitcoin wallets using the Bitcoin wallet of choice or the CryptoWorkspace with the transaction lookups and CSV exports. Add additional metadata to each transaction for your accountant to understand each transaction. (5 points)
+
+- Extract the hidden message in the Bitcoin Genesis Block (https://en.bitcoin.it/wiki/Genesis_block) using your Bitcoin node. (5 points)
+
+- Write a script that looks for Bitcoin messages in every other Bitcoin block. (5 points)
+
+- Create one paperwallet for a newborn baby of one of your employees. (don’t fund it , just create one with a greeting card) (5 points)
+
+- Participants should make sure to acquire the necessary documentation for onboarding with the designated Bitcoin exchange, CryptoBus, to buy or sell Bitcoin for Swiss Francs. They should approach the exchange during the Hack-Challenge and provide their company name to begin the onboarding process. It is important to inquire with the exchange regarding any specific requirements for onboarding. You need to independelty look for the CryptoBus to get a chance for onboarding. (20 points)
+
+
+[1] we can not ensure Hardware for all teams. Make sure your have 1 TB of free space on your own device you are bringing. 
 
 
 
