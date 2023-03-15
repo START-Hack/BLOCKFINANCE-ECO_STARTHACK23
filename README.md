@@ -58,8 +58,10 @@ cryptoworkspace@blockfinance-eco.li
 __Discord:__
 
 - BlockfinanceECO_Michael             ---- Michael
-- BlockfinanceECO_ConstantinBosse     ---- Constantin
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/15330600/225323240-02655c93-3e39-41d5-a51a-d85b67edd25a.jpg"> 
 
+- BlockfinanceECO_ConstantinBosse     ---- Constantin
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/15330600/225323780-0943c24a-3684-4a9e-93f2-0bc82fd66059.jpg">
 
 ## Prize - the winning team members will each receive:
 
