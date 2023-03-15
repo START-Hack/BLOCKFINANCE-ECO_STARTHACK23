@@ -45,7 +45,7 @@ We need onboarding with a crypto exchange because participants will require Bitc
 
 ## Resources
 
-- [Participant Resources](/participant_resources)
+- [Participant Resources](/participant_resources.md)
 
 ## Point of Contact
 
