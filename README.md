@@ -1,6 +1,8 @@
 # BLOCKFINANCE-ECO_STARTHACK23
 
-STAAT - HACK CASE 2023
+## STAAT - HACK CASE 2023
+
+<img width="580" alt="image" src="./images/ECO_color_black_horizontal.png"> 
 
 ## Case Introduction:
 
