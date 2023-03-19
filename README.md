@@ -6,7 +6,7 @@
 
 ## Case Introduction:
 
-Entrepreneurs and start-up companies looking to incorporate Bitcoin as a payment method for their clients, loans, employee payment, and fund raising can benefit from the Staat 2023 Hack-Case. Participants will work on challenges related to building their own Bitcoin infrastructure, including Bitcoin nodes, Bitcoin explorer, Bitcoin payment server, and Bitcoin wallets, using open-source tools and affordable hardware. By leveraging the power and security of Bitcoin, entrepreneurs and start-up companies can streamline their business operations and create a seamless payment experience for their customers, all while staying at the forefront of the rapidly evolving world of cryptocurrency.
+Entrepreneurs and start-up companies looking to incorporate Bitcoin as a payment method for their clients, loans, employee payment, and fund raising can benefit from the START 2023 Hack-Case. Participants will work on challenges related to building their own Bitcoin infrastructure, including Bitcoin nodes, Bitcoin explorer, Bitcoin payment server, and Bitcoin wallets, using open-source tools and affordable hardware. By leveraging the power and security of Bitcoin, entrepreneurs and start-up companies can streamline their business operations and create a seamless payment experience for their customers, all while staying at the forefront of the rapidly evolving world of cryptocurrency.
 
 The Hack-Case challenge allows a maximum of 120 participants, who can form teams of three to compete.
 
