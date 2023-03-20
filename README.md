@@ -12,7 +12,14 @@ The Hack-Case challenge allows a maximum of 120 participants, who can form teams
 
 ### Problem
 
-The problem we are solving with this is the lack of knowledge and resources for individuals and businesses to fully incorporate Bitcoin as a payment method and funding mechanism. Many people and companies are interested in utilizing Bitcoin, but may not know where to start or how to fully integrate it into their operations. By providing a hands-on Hack-Case that guides participants through the process of setting up their own Bitcoin infrastructure and company, we aim to empower individuals and businesses to fully incorporate Bitcoin into their operations and take advantage of the benefits it offers. Additionally, by providing access to CryptoWorkspace and hardware [1], we aim to make the process more accessible and efficient, allowing participants to focus on building and running their businesses rather than on technical challenges.
+The future of business is already here, Web 3.0 and Crypto. If you do not get up to speed fast, you will not catch this wave. Be one of the few who know how to ride it early on with some expert guidance to do so safely and with adequate security. Test your ability to do this right and learn by doing now! 
+Learn about and experiment with our help, tools, and available hardware: 
+-	Set-up your own company with bitcoin payment and funding infrastructure.
+-	Know how to accept bitcoin as payment for funding, invoices, etc.
+-	Use bitcoin to pay other invoices, your employees, etc.
+-	Use tools to document transactions properly to avoid problems with the authorities. 
+With our help you can take the chance to focus on building and managing your business rather than on infrastructure and security.
+
 
 
 ## The Pitch:
