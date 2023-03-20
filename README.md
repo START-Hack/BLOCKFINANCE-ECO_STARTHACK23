@@ -112,7 +112,8 @@ __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
 
 ### Challenges and Evaluation Criteria:
 
-- Set up a Bitcoin wallet structure using BIP-85 for your company and derive multiple BIP39 seeds for accounting, salaries, fundraising, etc. (10 points)
+- Setting up a Bitcoin wallet structure using BIP-85 (Bitcoin Improvement Proposal 85) involves creating a hierarchical deterministic (HD) wallet to securely store and manage your company's Bitcoin funds. BIP-85 provides a way to structure the HD wallet into multiple segments or accounts, allowing you to allocate specific funds for accounting, salaries, fundraising, etc. By creating multiple BIP39 seeds, you can ensure that each account has its own unique seed for added security and backup purposes. This structure ensures that your company's Bitcoin funds are managed in a secure and organized manner, making it easier to track and access them as needed. 
+(10 points)
 - Create a Bitcoin company vault wallet that will be used to fund the company derived from the BIP-85 seed. (5 points)
 
 - Raise funds on your fundraising Bitcoin wallet, which is also set up from the BIP-85 wallets, and get funded from the angel investor at the Blockfinance ECO AG booth. To receive your angel investment, you need to sign a message from one of your addresses in your Bitcoin fundraising wallet and send it to the Blockfinance ECO AG team on Discord or personally. Use the https://github.com/Blockfinance-ECO/Bitcoin-Value-Assert tool to create the timestamp and message of your fundraising Bitcoin wallet. (10 points)
