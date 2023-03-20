@@ -34,23 +34,39 @@ Insert Deep Dive Slides here
 
 ### Expected Final Product
 
-The main objective of the Hack-Case for STAAT 2023 is to empower participants to build and manage their own company fully incorporating Bitcoin as a payment method. This includes not only using Bitcoin to pay for products and services from clients, but also for loans, employee payments, and fund raising. In addition, the process of setting up the company itself should be completed using Bitcoin. By completing this challenge, participants will not only gain a deeper understanding of how to use Bitcoin for business purposes, but also how to fully integrate it into their company's operations. This will give them a competitive advantage in the ever-evolving world of cryptocurrency and blockchain-based businesses.
+By the end of the hack session, you will have created:
+- A bitcoin wallet structure using BIP-85 for your company.
+- Multiple BIP39 seeds for accounting, salaries, fundraising, etc.
+- A company vault wallet that will be used to fund the company derived from the BIP-85 seed.
+- Learn the process and proof your ownership of the wallet address by signing a message from one of your addresses with a timestamp. 
+- A running bitcoin node with API access and txindex=1 in your bitcoin.conf file. 
+- A Bitcoin Payment Server (BTCPay) and connect it to your own Bitcoin node and prove its functionality by (creating your first invoice, using scripting language to access the API, automating it, etc.)
+- Small website where you sell one product connected to your Bitcoin Payment Server.
+- Documentation for accounting statements of all your Bitcoin wallets.
+- A script to add and extract messages from transaction blocks.
+- A paperwallet for a present to a fictitious employee.
+- Documentation for onboarding with the CryptoBus exchange to be able to exchange Bitcoin for Fiat currency
+
 
 ### Data
 
-The participants in the Hack-Case will have access to a full Bitcoin blockchain, which will be provided to them to save time on syncing the blockchain. They will also be using laptops provided by the organizers and will have access to the CryptoWorkspace platform to verify their results. Additionally, they will be using open-source Bitcoin tools of their choice and will be working on their own Bitcoin infrastructure to incorporate it into their business operations. The challenge will also involve using various data related to Bitcoin transactions, such as transaction lookups and CSV exports, as well as metadata to ensure proper accounting of all transactions.
+The participants in the Hack-Case will have access to:
+-	A full Bitcoin blockchain, which will be provided to them to save time on syncing the blockchain.
+-	Laptops provided by the organizers (10 units)[1].
+-	The CryptoWorkspace platform to verify their results, gather documentation for accounting on Bitcoin transactions, such as address reports, CSV exports, etc. and  metadata to ensure proper accounting of all transactions.
+-	A list of Open-Source tools for implementing their infrastructure.
+-	Bitcoin professionals throughout the hack case for support and coordination.
+
+[1] we can not ensure Hardware for all teams. Make sure your have 1 TB of free space on your own device you are bringing. 
+
 
 ### Technology
 
-The participants in the Hack-Case will have the freedom to choose any open-source Bitcoin tools that they are comfortable with. And are guided by Bitcoin professionals thouout the Hack-Case. They will also have access to a full Bitcoin blockchain, which will be provided to them to save time on syncing the blockchain. In addition, they will be using laptops provided by the organizers, and will have access to the CryptoWorkspace platform to verify their results. The technology stack will be centered around Bitcoin and will include tools such as Bitcoin nodes, Bitcoin explorers, Bitcoin payment servers, and Bitcoin wallets. Overall, the Hack-Case is designed to give participants a hands-on experience of building their own Bitcoin infrastructure and incorporating it into their business operations.
+The technology stack will be focused on Bitcoin and will include tools such as Bitcoin nodes, Bitcoin explorers, Bitcoin payment servers, and Bitcoin wallets. Overall, the Hack-Case is designed to give participants a hands-on experience of building their own Bitcoin infrastructure and incorporating it into their business operations.
 
 ### Use Case (and Business Case)
 
-Based on the given information, the users of the final product will likely be entrepreneurs and start-up companies who want to incorporate Bitcoin into their business operations. The goal of the Hack-Case is to enable participants to build their own Bitcoin infrastructure and use it to manage their company's finances, including payments to clients, loans, and employee salaries.
-
-The participants are not necessarily required to come up with a specific use case, as the Hack-Case is designed to be flexible enough for participants to tailor it to their own business needs. However, the challenges presented in the Hack-Case are meant to simulate real-world scenarios that entrepreneurs and start-ups may encounter when using Bitcoin in their business operations. Overall, the Hack-Case is meant to provide participants with the knowledge and tools necessary to build and manage their own Bitcoin-based business from start to finish, with a focus on security and efficiency.
-
-We need onboarding with a crypto exchange because participants will require Bitcoin to complete the challenges and transactions involved in the Hack-Case. A crypto exchange allows participants to purchase and sell Bitcoin for fiat currency, in this case, Swiss Francs. Onboarding with the exchange ensures that participants meet the necessary regulatory requirements and have the necessary documentation to participate in the exchange's services. It also helps prevent fraudulent activities and ensures that the transactions are conducted in a secure and compliant manner.
+The Hack-Case is meant to simulate real-world scenarios that entrepreneurs and start-ups may encounter when using Bitcoin in their business operations with no specific use case, so that its participants can customize it to their business needs. With the Hack-Case participants will be exposed to all the elements that have to be considered from start to finish to be able to use Bitcoin in their day to day for business. In essence one can summarize it as learning how to set up their own Bitcoin infrastructure, and how to use it to manage their company's finances, dealing with exchanges, for Bitcoin conversion, etc. but also to how to take the necessary step for transaction compliance and safety.
 
 ## Resources
 
