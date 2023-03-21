@@ -57,3 +57,21 @@ User: bfeco
 Pass: bfeco123
 Domain: WORKGROUP
 
+### Mount via Console
+
+`apt install smbclient cifs-utils`
+
+Browse around:
+`smbclient '\\10.20.20.10\BFECO-bitcoin' -U bfeco`
+
+Mount locally:
+```
+mkdir /mnt/bitcoin
+sudo mount -t cifs -o vers=3.0,username=bfeco '\\10.20.20.10\BFECO-bitcoin' /mnt/bitcoin
+```
+
+For mounting informations: https://www.server-world.info/en/note?os=Ubuntu_22.04&p=samba&f=3
+(Also for Windows)
+
+
+
