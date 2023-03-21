@@ -24,3 +24,31 @@
 
 ### Bitcoin Payment Server
 - https://btcpayserver.org/
+
+
+## Bitcoin Infrastructure
+When connected to the Network-Box of Blockfinance ECO AG via Cable or Wifi.
+To get better speeds, connect via network cable.
+
+### How to connect to the Blockfinance Bitcoin Network?
+
+### Via network Cable:
+Just plug in the network cable to your Laptop and you will get an IP address via DHCP.
+
+### Via WiFi
+
+#### 2G-Wifi
+SSID: BlockfinanceECO-CrypotWorkspace
+Password: ask operator
+
+#### 5G-Wifo
+SSID: BlockfinanceECO-CrypotWorkspace
+Password: ask operator
+
+###  Internal IP Addresses
+
+#### NAS01
+To get all your needed Blockchain files visit NAS01 at:
+
+- https://10.20.20.10/ or
+- 
