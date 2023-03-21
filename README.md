@@ -24,7 +24,8 @@ With our help you can take the chance to focus on building and managing your bus
 
 ## The Pitch:
 
-Insert Pitchdeck here
+- [Pitchdeck - PDF](./BFECO_presentation_StartHack_PitchDeck.pdf)
+- [Pitchdeck - PPT](./BFECO_presentation_StartHack_PitchDeck.pptx)
 
 ## Deep Dive Slides:
 
