@@ -55,4 +55,5 @@ To get all your needed Blockchain files visit NAS01 at:
 
 User: bfeco
 Pass: bfeco123
+Domain: WORKGROUP
 
