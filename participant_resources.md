@@ -52,3 +52,7 @@ To get all your needed Blockchain files visit NAS01 at:
 
 - https://10.20.20.10/ or
 - https://nas01.bfeco.local/
+
+User: bfeco
+Pass: bfeco123
+
