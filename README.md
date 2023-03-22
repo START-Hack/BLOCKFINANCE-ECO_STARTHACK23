@@ -29,7 +29,8 @@ With our help you can take the chance to focus on building and managing your bus
 
 ## Deep Dive Slides:
 
-Insert Deep Dive Slides here
+- [Deep Dive - PDF](./BFECO_presentation_StartHack_DeepDive.pdf)
+- [Deep Dive - PPT](./BFECO_presentation_StartHack_DeepDive.pptx)
 
 ## Further Information:
 
