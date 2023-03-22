@@ -69,18 +69,27 @@ sudo apt install nfs-common
 oder 
 `showmount -e nas01.bfeco.local`
 
-Create a directory to mount a copy of bitcoin blockchain:
+**Create a directory to mount a copy of bitcoin blockchain:**
 
 `sudo mkir /mnt/bitcoind`
 
-Mount the NFS share with a copy of Bitcoin Blockchain
+**Mount the NFS share with a copy of Bitcoin Blockchain**
+
 `sudo mount -t nfs 10.20.20.10:/BFECO-Bitcoin /mnt/bitcoind`
 
-now copy the Bitcoin blockchain to your local harddisk:
+**now copy the Bitcoin blockchain to your local harddisk:**
+
 `sudo rsync -av --info=progress2 /mnt/bitcoind/ /opt/`
 
-Once you did copy the blockchain you can then run `bitcoin-qt` or `bitcoind`:
-/opt/bitcoind/bin/bitcoin-qt -datadir=/opt/bitcoind/data/ 
+**now unmount the directory let other usery sync as well:**
+
+`sudo umount /mnt/bitcoind`
+
+**Once you did copy the blockchain you can then run `bitcoin-qt` or `bitcoind`:**
+
+`sudo chown -R oem:oem /opt/*` (run this once to correct file and folder access) 
+
+`/opt/bitcoind/bin/bitcoin-qt -datadir=/opt/bitcoind/data/ `
 
 
 
