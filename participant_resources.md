@@ -59,19 +59,28 @@ Domain: WORKGROUP
 
 ### Mount via Console
 
-`apt install smbclient cifs-utils`
+#### NFS
+Multiple users
 
-Browse around:
-`smbclient '\\10.20.20.10\BFECO-bitcoin' -U bfeco`
-
-Mount locally:
+```sudo apt update
+sudo apt install nfs-common
 ```
-mkdir /mnt/bitcoin
-sudo mount -t cifs -o vers=3.0,username=bfeco '\\10.20.20.10\BFECO-bitcoin' /mnt/bitcoin
-```
+`showmount -e 10.20.20.10` 
+oder 
+`showmount -e nas01.bfeco.local`
 
-For mounting informations: https://www.server-world.info/en/note?os=Ubuntu_22.04&p=samba&f=3
-(Also for Windows)
+Create a directory to mount a copy of bitcoin blockchain:
+
+`sudo mkir /mnt/bitcoind`
+
+Mount the NFS share with a copy of Bitcoin Blockchain
+`sudo mount -t nfs 10.20.20.10:/BFECO-Bitcoin /mnt/bitcoind`
+
+now copy the Bitcoin blockchain to your local harddisk:
+`sudo rsync -av --info=progress2 /mnt/bitcoind/ /opt/`
+
+Once you did copy the blockchain you can then run `bitcoin-qt` or `bitcoind`:
+/opt/bitcoind/bin/bitcoin-qt -datadir=/opt/bitcoind/data/ 
 
 
 
