@@ -71,7 +71,7 @@ oder
 
 **Create a directory to mount a copy of bitcoin blockchain:**
 
-`sudo mkir /mnt/bitcoind`
+`sudo mkdir /mnt/bitcoind`
 
 **Mount the NFS share with a copy of Bitcoin Blockchain**
 
