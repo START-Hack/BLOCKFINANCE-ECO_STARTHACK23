@@ -75,13 +75,11 @@ The Hack-Case is meant to simulate real-world scenarios that entrepreneurs and s
 
 ## Point of Contact
 
-We will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
+We will be glad to answer your questions during the Deep Dive. **We are only available on Discord**
 
-__Email:__
 
-cryptoworkspace@blockfinance-eco.li
 
-__Discord:__
+__Discord only:__
 
 - BlockfinanceECO_Michael             ---- Michael
 <img width="180" alt="image" src="./images/Seed-Michael-Mauer.jpg"> 
