@@ -137,7 +137,9 @@ __2nd - 3rd__	Bitcoin Hardware Wallets and Bitcoin BLOCKCLOCK™ micro
 
 - Create one paperwallet for a newborn baby of one of your employees. (don’t fund it , just create one with a greeting card) (5 points)
 
-- Participants should make sure to acquire the necessary documentation for onboarding with the designated Bitcoin exchange, CryptoBus, to buy or sell Bitcoin for Swiss Francs. They should approach the exchange during the Hack-Challenge and provide their company name to begin the onboarding process. It is important to inquire with the exchange regarding any specific requirements for onboarding. You need to independelty look for the CryptoBus to get a chance for onboarding. (20 points)
+- Participants should make sure to acquire the necessary documentation for onboarding with the designated Bitcoin exchange, CryptoBus, to buy or sell Bitcoin for Swiss Francs. They should approach the exchange during the Hack-Challenge and provide their company name to begin the onboarding process. It is important to inquire with the exchange regarding any specific requirements for onboarding. You need to independelty look for the CryptoBus to get a chance for onboarding. (15 points)
+
+- Be creative surprise us and show how it adds value (5 points).
 
 
 [1] we can not ensure Hardware for all teams. Make sure your have 1 TB of free space on your own device you are bringing. 
